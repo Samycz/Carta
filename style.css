@@ -12,6 +12,11 @@ body {
   text-align: center;
 }
 
+.containerWilka {
+  position: absolute;
+  text-align: center;
+}
+
 
 .photo {
   width: 317px;
